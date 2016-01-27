@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/loading_1.png</file>
+        <file>Resources/loading_2.png</file>
+        <file>Resources/loading_3.png</file>
+        <file>Resources/loading_4.png</file>
+        <file>Resources/icon.ico</file>
+        <file>Resources/icon.png</file>
+        <file>Resources/cursor1.png</file>
+        <file>Resources/cursor2.png</file>
+        <file>Resources/videos.png</file>
+        <file>Resources/settings.png</file>
+        <file>Resources/gallery.png</file>
+        <file>Resources/desktop.png</file>
+        <file>Resources/cursor3.png</file>
+        <file>Resources/cursor4.png</file>
+        <file>Resources/cursor5.png</file>
+        <file>Resources/cursor0.png</file>
+        <file>Resources/2048.png</file>
+        <file>Resources/archery.png</file>
+        <file>Resources/earth.png</file>
+        <file>Resources/maps.png</file>
+        <file>Resources/paint.png</file>
+        <file>Resources/phot0.jpg</file>
+        <file>Resources/phot1.jpg</file>
+        <file>Resources/phot2.jpg</file>
+        <file>Resources/phot3.jpg</file>
+        <file>Resources/phot4.jpg</file>
+        <file>Resources/phot5.jpg</file>
+        <file>Resources/phot6.jpg</file>
+        <file>Resources/phot7.jpg</file>
+        <file>Resources/phot8.jpg</file>
+        <file>Resources/phot9.jpg</file>
+        <file>Resources/phot10.jpg</file>
+    </qresource>
+</RCC>
