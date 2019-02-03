@@ -10,7 +10,7 @@ Le Glove Motion est un appareil qui permet aux utilisateurs d’interagir et de 
 
 ## Presentation video
 
-https://www.youtube.com/watch?v=laO0jdX8ci4
+https://youtu.be/3lLzk97Oof0
 
 ## Authors
 
